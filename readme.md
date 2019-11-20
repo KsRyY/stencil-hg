@@ -28,5 +28,5 @@
 
 ### In a stencil-starter app
 - Run `npm install stencil-hg --save`
-- Add an import to the npm packages `import stencil-hg;`
+- Add an import to the npm packages `import "stencil-hg";`
 - Then you can use this element anywhere in your template, JSX, html etc
